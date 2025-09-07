@@ -21,9 +21,8 @@ const Navbar = () => {
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
             <Link to='/dashboard'> 
-            <a href="#features" className="text-foreground hover:text-primary transition-smooth">
               DashBoard
-            </a></Link>
+            </Link>
             <a href="#features" className="text-foreground hover:text-primary transition-smooth">
               Features
             </a>
