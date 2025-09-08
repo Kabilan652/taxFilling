@@ -32,7 +32,7 @@ const AuthCard = () => {
 
     // Show success message
     if (isLogin) {
-      setMessage("✅ Login successful!");
+      setMessage("✅ Register successful!");
     } else {
       setMessage("🎉 Account created successfully!");
     }
